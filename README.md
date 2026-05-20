@@ -66,7 +66,6 @@ Download the SuperScribble code from the link below:
 
 ## <a name="installation"></a>⚙️ Installation
 ```bash
-# Clone this repository
 
 # Create a conda environment with Python >= 3.7
 conda create -n SuperScribble python=3.7
